@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Double_Jump_Dust_5.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Attack1_4.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Attack2_6.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Climb_4.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Death_8.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Hurt_4.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Idle_4.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Jump_8.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Push_6.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Run_6.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Throw_4.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Walk_6.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Dude_Monster_Walk+Attack_6.png</File>
+    <File>C:/Users/manom/source/repos/Binario/Binario/Content/Player/Walk_Run_Push_Dust_6.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
